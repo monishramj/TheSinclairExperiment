@@ -34,18 +34,6 @@ You are a renowned exorcist sent by the Vatican to investigate a series of distu
 - Java JDK 8 or higher
 - Swing library (included in JDK)
 
-### Project Structure
-```
-TheSinclairExperiment/
-├── locations/          # Game areas and their logic
-├── npc/               # NPC dialogue system
-│   ├── interactables/ # Individual NPC classes
-│   └── dialogues.txt  # Dialogue content
-├── player/            # Player, combat, and inventory
-├── util/              # Game utilities and main loop
-└── README.md
-```
-
 ### Key Classes
 - **Main.java** - Entry point and game initialization
 - **Player.java** - Player stats, inventory, and equipment
