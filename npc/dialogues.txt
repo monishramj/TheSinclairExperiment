@@ -1,0 +1,311 @@
+# key would - location-scene-character-id_of_previous.id_of_itself
+
+
+# 100 - Forest
+# CS - Captain Shaughnessy
+100-01-CS-Quit=... I don't wanna talk no more. You best better get on ya way, Father.
+
+100-01-CS-0=...
+
+100-01-CS-0.1="Hi, Captain."
+100-01-CS-0.2="Tell me about the island."
+100-01-CS-0.3="Do you know anything about the ghosts here?"
+100-01-CS-0.4="Thank you so much for the transportation."
+
+100-01-CS-0.1.1=Hello... *he proceeds to mumble under his bushy mustache and continue smoking.*
+100-01-CS-0.2.1=Kinmouth... home of de great fog. They too muh fog 'round these parts, Father. It's fair that most them people haven't heard of it. Very remote.
+100-01-CS-0.3.1=... I ain't no wuss, Father. But I don't dabble in none of that, yes sir.
+100-01-CS-0.4.1=It is my pleasure, Father. No worries. *he gives a weak smile*.
+
+100-01-CS-0.3.1.1="Just tell me anything that you know."
+100-01-CS-0.3.1.2="I know that you know something. Spit it."
+
+100-01-CS-0.3.1.1.1=I think there's sum folk nonsense goin' on with the locals. Something about some lady ghost haunting the town. I don't dabble much in that, Father, sorry.
+100-01-CS-0.3.1.2.1=I'm sorry Father, all I know is that there's sum folk nonsense goin' on with the locals is all, something about some lady ghost. That's all I know.
+
+# FY - Father Yannick
+
+100-01-FY-Quit=Good talking with you.
+100-01-FY-0=I'm relieved the Vatican has sent you.
+
+100-01-FY-0.1="Hello, Father Yannick."
+100-01-FY-0.2="Could you brief me on the situation here, Father?"
+
+100-01-FY-0.1.1=Good to see you. Are you ready to go?
+100-01-FY-0.2.1=Sure, we can do so on the way to town. Are you ready to go?
+
+100-01-FY-0.1.1.1="I have to talk with the captain first, see if he has any information."
+100-01-FY-0.2.1.1="I have to talk with the captain first, see if he has any information."
+
+100-01-FY-0.1.1.1.1=Okay then. Please be swift, time is of the essence.
+100-01-FY-0.2.1.1.1=Okay then. Please be swift, time is of the essence.
+
+
+100-02-FY-Quit=Good talking with you.
+100-02-FY-0=I'm relieved the Vatican has sent you.
+
+100-02-FY-0.1="Hello, Father Yannick."
+100-02-FY-0.2="Could you brief me on the situation here, Father?"
+
+100-02-FY-0.1.1=Good to see you. Are you ready to go?
+100-02-FY-0.2.1=Sure, we can do so on the way to town. Are you ready to go?
+
+100-02-FY-0.1.1.1="Yes."
+100-02-FY-0.2.1.1="Yes."
+
+100-02-FY-0.1.1.1.1="Onward."
+100-02-FY-0.2.1.1.1="Onward."
+
+------------------------------
+
+#DAY ONE
+
+# Father Yanick @ church
+200-01-FY-Quit=Good luck, Father. I believe in you.
+200-01-FY-0=I know the church is... quaint. But it is still majestic.
+
+200-01-FY-0.1="Hello, Father Yannick."
+200-01-FY-0.2="Where will I be staying?"
+200-01-FY-0.3="Do you have any materials for me?"
+
+200-01-FY-0.1.1=Hello. Please, do take a look around our church.
+200-01-FY-0.2.1=There's the Belmont Hotel in the area. Here, I've given you a pass for a week at the hotel, it's the least I could do.
+200-01-FY-0.3.1=Yes, I've given you the case files reported by the local police, and a map of the island. I've also placed the Esteemed Cross near the podium in front of us.
+
+200-01-FY-0.3.1.1="The Esteemed Cross... what is it?"
+200-01-FY-0.3.1.2="Thank you."
+
+200-01-FY-0.3.1.1.1=The Esteemed Cross was an artifact discovered in the nearby mountains centuries ago. It is the holiest item we own, something I cannot wield. Do make good use of it.
+200-01-FY-0.3.1.2.1=No, thank you. You are strong enough to wield it, it has no use collecting dust in the chest.
+
+----- POLICE STATION
+
+# Sheriff Stone
+300-02-SS-Quit=Please do not disturb me. 
+300-02-SS-0=I presume you are the one they sent.
+
+300-02-SS-0.1="Hello, Sheriff."
+300-02-SS-0.2="How do you know that I was sent here?"
+
+300-02-SS-0.1.1=Hello. If you are here to waste my time, please leave my office. I have matters to tend to.
+300-02-SS-0.2.1=Everyone knows everyone. And word spreads fast. But I don't believe we need your help.
+
+300-02-SS-0.2.1.1="Why is that?"
+300-02-SS-0.2.1.2="I don't appreciate that. Be respectful."
+
+300-02-SS-0.2.1.1.1=The investigation is progressing well already. We don't need hooligans to disturb the issue.
+300-02-SS-0.2.1.2.1=HEY! Who are you raising your voice to? Leave my office this instant.
+
+# Receptionist Lopez @ station
+300-02-RL-Quit=Good day.
+300-02-RL-0=Hello, welcome to the Kinmouth Police Station, how may I help you?
+
+300-02-RL-0.1="Hello there!"
+300-02-RL-0.2="I'm looking for Sheriff Stone, is he in?"
+300-02-RL-0.3="What a lovely day it is?"
+
+300-02-RL-0.1.1=Hello father, how may I help you?
+300-02-RL-0.2.1=Uhhh... Let me check.
+300-02-RL-0.3.1=...Father, there's heavy fog outside.
+
+300-02-RL-0.1.1.1="I'm looking for Sheriff Stone, is he in?"
+300-02-RL-0.1.1.1.1=Uhhh... Let me check. Yep, he's here today.
+
+300-02-RL-0.2.1.1="Please check quickly."
+300-02-RL-0.2.1.2="Thank you."
+
+300-02-RL-0.2.1.1.1=He does seem to be in today, you're in luck!
+300-02-RL-0.2.1.2.1=He does seem to be in today, you're in luck!
+
+
+# Bartender @ bar bfore money
+400-02-BT-Quit=Thanks for coming in!
+400-02-BT-0=What can I get you today, Father? Drinking, eh?
+
+400-02-BT-0.1="I'll just have a lemon water. Water is free, yes?"
+400-02-BT-0.2="Actually, I was looking for an inside scoop"
+
+400-02-BT-0.1.1=For you, it's on the house, coming right up. You in town for business, father?
+400-02-BT-0.2.1=We don't serve ice cream here, sir.
+
+400-02-BT-0.1.1.1="Well, you could call it that. I've been sent to investigate some matters here."
+400-02-BT-0.2.1.1="No, I meant to ask if you've info about the town's... recent mishaps."
+
+400-02-BT-0.1.1.1.1=Ah. Good luck
+400-02-BT-0.2.1.1.1=Well, I've always been told that information comes at a price..
+
+400-02-BT-0.2.1.1.1.1="I see..."   *I barely have any money for my expenses... I need to find some money quick*
+--
+# Bartender @ bar after money
+400-03-BT-0=Hello again, Father. Would you care for... a drink?
+
+400-03-BT-0.1="Yes, I have the money. This is enough?"
+
+400-03-BT-0.1.1=Somewhat... I can give you a hint. About what happened May 19th. Check the newspapers.
+
+400-03-BT-0.1.1.1="Where?"
+
+400-03-BT-0.1.1.1.1=I can't say exactly where, but I'll say a haiku... (trust me, I'm an aspiring poet).
+
+400-03-BT-0.1.1.1.1.1="..."
+
+400-03-BT-0.1.1.1.1.1.1='Silent halls of lore, pages whisper tales untold, minds within explore'. Go to the place I'm referring to. 
+
+#Little Girl bfore finding
+500-02-LG-Quit=I miss her...
+500-02-LG-0=Please help!
+
+500-02-LG-0.1="What's wrong?"
+500-02-LG-0.1.1=My pet rabbit is missing... can you help me find it?
+
+500-02-LG-0.1.1.1="Sure. Where was it last?"
+500-02-LG-0.1.1.2="Sorry, I'm busy."
+
+500-02-LG-0.1.1.1.1=I was playing near the cemetery. Then, it ran in. I'm too scared to go there.
+500-02-LG-0.1.1.2.1=Please... I'll give you anything. I have 30 euros...
+
+500-02-LG-0.1.1.1.1.1="Don't worry, I'll find it."
+500-02-LG-0.1.1.2.1.1="Don't worry, I'll find it."
+-----
+#Little Girl after finding
+500-03-LG-Quit=I miss her...
+500-03-LG-0=Have you found my rabbit yet?
+
+500-03-LG-0.1="Yes I have! Here you go."
+
+500-03-LG-0.1.1=Thank you so much, you're the best!! Here's 30 euros. I'm sorry this is all I can give...
+
+500-03-LG-0.1.1.1="Do not worry, my child. You have done me a great service today."
+
+
+# MicrofilmReader @ library
+600-02-MR-Quit=beep boop
+600-02-MR-0='Please place your microfilm reel here,' it says on the reader.
+
+600-02-MR-0.1=Turn the reel left twice.
+
+600-02-MR-0.1.1=Headlines: A search and rescue operation is underway in Kinmouth's mountain range after a group of teenage hikers stumbled upon a deceased male yesterday afternoon.
+
+600-02-MR-0.1.1.1=Keep reading.
+
+600-02-MR-0.1.1.1.1=The group, five students from Kinmouth High School, were on a sanctioned hike on the moderately difficult Pine Ridge Trail when they made the grim discovery.
+
+600-02-MR-0.1.1.1.1.1=Keep reading.
+
+600-02-MR-0.1.1.1.1.1.1=Park rangers confirmed the death and secured the scene. However, the situation took a disturbing turn when a headcount revealed that one member of the group, 17-year-old Rosa Stone, was missing.
+
+600-02-MR-0.1.1.1.1.1.1.1=Keep reading.
+
+600-02-MR-0.1.1.1.1.1.1.1.1="Our top priority is locating Rosa and ensuring her safety," Park Ranger Captain Amelia Davis emphasized. "The cause of death for the unidentified male is also under investigation."
+
+
+# Cult Leader
+
+700-04-CL-Quit=Leave this place.
+700-04-CL-0=...i know why you have come...
+
+700-04-CL-0.1="And why is that exactly?"
+
+700-04-CL-0.1.1=...you'll save us all from sinclair...
+
+700-04-CL-0.1.1.1="Who is Sinclair?"
+
+700-04-CL-0.1.1.1.1=...he controls it all...and she continues to haunt us...
+
+700-04-CL-0.1.1.1.1.1="Is 'she' the one who roams these mountains?"
+700-04-CL-0.1.1.1.1.2="Who is 'he'?"
+
+700-04-CL-0.1.1.1.1.2.1=...i won't...they'll find me...you won't...i...
+
+700-04-CL-0.1.1.1.1.2.1.1="Please, just help."
+700-04-CL-0.1.1.1.1.2.1.1.1=...they're hidden...house of mirrors, grand and bright...reflects the town in its polished light.
+
+700-04-CL-0.1.1.1.1.2.1.1.1.1="..."
+
+700-04-CL-0.1.1.1.1.2.1.1.1.1.1=...promises echo, expectations take flight, but shadows lurk, a hidden blight... there you will find the sin. the sin. the SIN.
+
+
+700-04-CL-0.1.1.1.1.1.1=...it is a pity she was successful...she can't remember anything at all...
+
+700-04-CL-0.1.1.1.1.1.1.1="What happened to this ghost? Do you know her name? Anything?"
+700-04-CL-0.1.1.1.1.1.1.1.1=...everyone doesn't know everyone... i don't know myself... i stay here for my thirst of salvation to be quenched...
+
+
+-------------------------------------------------
+# White Lady
+800-04-WL-Quit=...
+800-04-WL-0=Hello.
+
+800-04-WL-0.1="Was it you who attacked me?"
+800-04-WL-0.2="Do you remember anything at all?"
+800-04-WL-0.3="Who are you?"
+
+800-04-WL-0.1.1=I am an animal. I can't remember. I just attack when I feel threatened.
+
+800-04-WL-0.2.1=All I know is rage. Rage from that man. The man who put me in misery.
+800-04-WL-0.3.1=I simply am. I don't know where I came from, before I become this... monster. I might have had a life.
+----------------------
+# Sarah Thomas (T1) @ House no.1009 @ resArea
+500-02-T1-Quit=Nice seeing you here, sir.
+500-02-T1-0=Oh, what brings you here?
+
+500-02-T1-0.1="Sorry to bother you guys, but I was wondering whether you've heard about anything going on recently 'round here.
+
+500-02-T1-0.1.1=Uh no, not really.
+
+# Miller Harrington @ House no.1010 @ resArea
+500-02-T2-Quit=Have a good day, sir.
+500-02-T2-0=Looking for some repairs?
+
+500-02-T2-0.1="No, but there is another way you could help me"
+500-02-T2-0.2="Yeah I need some repairs"
+
+500-02-T2-0.1.1=And what's that?
+500-02-T2-0.2.1=Dumb question, but usually people bring their car here or something...
+
+500-02-T2-0.1.1.1="I was wondering whether you've heard about anything going on recently 'round here."
+
+500-02-T2-0.1.1.1.1=Well I suppose I have... but its not my story to tell.
+
+500-02-T2-0.1.1.1.1.1="What do you mean by that?"
+
+500-02-T2-0.1.1.1.1.1.1=Sorry Father, I can't help you.
+
+# Alice (T3) @ House no.1013 @ resArea
+500-02-T3-Quit=Be careful out there
+500-02-T3-0=You one of those insurance salesmen again? Already told you folks Harold wouldn't want any fancy life policies
+
+500-02-T3-0.1="No ma'am. I'm here to investigate the recent troubles this town's been having"
+
+500-02-T3-0.1.1=I see.
+
+500-02-T3-0.1.1.1="Have you heard about anything recently?"
+
+500-02-T3-0.1.1.1.1=..Can't say I have.
+
+500-02-T3-0.1.1.1.1.1="Anything at all?"
+
+500-02-T3-0.1.1.1.1.1.1= Look, I didn't see or hear anything suspicious. Just another quiet night on the street.
+
+# Oliver Bilingsworth III (T4) @ House no.1008 @ resArea
+500-02-T4-Quit=Good day, Father.
+500-02-T4-0=Yo, what's up?
+
+500-02-T4-0.1="Hello, I was wondering if you’d heard about anything lately"
+500-02-T4-0.2="Yo"
+
+500-02-T4-0.1.1=Mmhmm
+500-02-T4-0.2.1=Skibidi ohio rizz fr?
+
+500-02-T4-0.1.1.1="You have a reputation for being well connected in this area…"
+
+500-02-T4-0.1.1.1.1=Not in my purview...
+
+# Edgar Alistair (T5) @ House no.1012 @ resArea
+500-02-T5-Quit=Please leave
+500-02-T5-0=I ain’t home
+
+500-02-T5-0.1="I can hear you in there"
+
+500-02-T5-0.1.1=I ain’t home I said...
+
