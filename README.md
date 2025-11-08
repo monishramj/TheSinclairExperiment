@@ -1,6 +1,6 @@
 # The Sinclair Experiment
 
-A text-based interactive horror adventure game where you play as an exorcist investigating supernatural occurrences on the mysterious island of Kinmouth, England. Created by **Monish RJ** & **Vighnesh S**.
+A text-based interactive horror adventure game where you play as an exorcist investigating supernatural occurrences on the mysterious island of Kinmouth, England. Created by **Monish RJ** & **Vighnesh S** for the 2024-2025 AP Computer Science A final project.
 
 ## Story
 You are a renowned exorcist sent by the Vatican to investigate a series of disturbing events on the remote island of Kinmouth. Locals report hearing eerie weeping at night, and young women have been disappearing like clockwork every two weeks. As the last exorcist of the Vatican, you must uncover the truth behind the hauntings and save the island from the evil that plauges it.
